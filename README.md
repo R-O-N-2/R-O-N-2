@@ -9,7 +9,7 @@ I am a Fullstack Software Engineer with a passion to utilize my skills to design
 
 - 🔭 I’m currently working on [Amiibo Attack](https://github.com/R-O-N-2/Amiibo-Attack-)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently practicing **MERN Stack**
 
 - 👯 I’m currently collaborating on [ProjectWRX](https://github.com/sunder96u/ProjectWRX-Front/blob/main/README.md)
 
