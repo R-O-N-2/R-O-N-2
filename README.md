@@ -15,7 +15,7 @@ I am a Fullstack Software Engineer with a passion to utilize my skills to design
 
 - 🤝 I’m looking for help with [Baby Boomers](https://github.com/R-O-N-2/Baby-Boomers)
 
-- 👨‍💻 All of my projects are available in my <a href="https://ron-rose.netlify.app/" target="blank">Portfolio</a>
+- 👨‍💻 All of my projects are available in my <a href="https://ron-rose.netlify.app/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **react!**
 
