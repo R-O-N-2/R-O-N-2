@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ron Rose</h1>
 <h3 align="center">A passionate full stack developer from Tampa, FL.</h3>
 
-I am a Fullstack Software Engineer with a passion to utilize my skills to design user- friendly web applications and provide solutions for my clients. I have experience with HTML, CSS, and Javascript technologies such as React. My professional background includes over 10 years of experience in customer service and sales, which involved me providing solutions tailored to customers’ specific needs. My background has allowed me to grow as a professional, and I understand it is imperative to demonstrate integrity, adaptability, prioritization, collaboration, and teamwork in everything I do. 
+I am a Fullstack Software Engineer with a passion to utilize my skills to design user- friendly web applications and provide solutions for my clients. With more than a decade of professional experience in customer service and sales, my background encompasses a proven track record of delivering tailored solutions to meet the unique needs of customers. I truly enjoy finding solutions for problems and fixing things. I take pride in being a team player who can work with others of different backgrounds and skill sets to accomplish the task at hand.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-o-n-2&label=Profile%20views&color=0e75b6&style=flat" alt="r-o-n-2" /> </p>
 
